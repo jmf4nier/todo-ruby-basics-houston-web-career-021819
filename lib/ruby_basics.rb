@@ -12,7 +12,7 @@ def argue(argument)
   argument
 end
 
-def greeting
+def greeting(name, language)
 
 end
 
